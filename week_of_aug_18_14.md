@@ -22,7 +22,7 @@
 
 #### Donald Knuth Posse
   * Allison Larson: Ben 8/19 6am -7am (GO)
-  * Andrew Watkins: Ben 8/19 6am -7am (GO)
+  * Andrew Watkins: Ben 8/19 6am -7am (GO), Mary 8/15 5pm-7pm (RAILZ)
   * Jim Sutton: Austen 8/11 6pm - 7pm; Mary 8/13 6pm - 7pm; Watts 8/15 7:30 - 8:30am
 
 #### Ada Lovelace Posse
