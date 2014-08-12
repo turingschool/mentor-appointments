@@ -17,7 +17,7 @@
 #### Fred Brooks Posse
   * Alan Smith:
   * Hillary Denton:
-  * Kavita Sachdeva:
+  * Kavita Sachdeva: Meeka Gayhart, 8/18, 7ish, TBD
   * Rolando Navarrete
 
 #### Donald Knuth Posse
