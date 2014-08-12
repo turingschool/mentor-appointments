@@ -9,7 +9,7 @@
   * Cara Dennis:
 
 #### Grace Hopper Posse
-  * Corey Davis:
+  * Corey Davis: Geoff S. 8/13 2:00 - 3:00 (Exercism) & Matt R. 8/20 5:30 - 6:30 (Open source contributions)
   * Marc Garreau:
   * Ian Anderson:
   * Jessica Goulding:
