@@ -21,8 +21,8 @@
   * Rolando Navarrete
 
 #### Donald Knuth Posse
-  * Allison Larson:
-  * Andrew Watkins:
+  * Allison Larson: Ben 8/19 6am -7am (GO)
+  * Andrew Watkins: Ben 8/19 6am -7am (GO)
   * Jim Sutton: Austen 8/11 6pm - 7pm; Mary 8/13 6pm - 7pm; Watts 8/15 7:30 - 8:30am
 
 #### Ada Lovelace Posse
