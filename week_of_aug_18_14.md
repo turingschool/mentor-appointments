@@ -23,7 +23,7 @@
 #### Donald Knuth Posse
   * Allison Larson:
   * Andrew Watkins:
-  * Jim Sutton:
+  * Jim Sutton: Austen 8/11 6pm - 7pm; Mary 8/13 6pm - 7pm; Watts 8/15 7:30 - 8:30am
 
 #### Ada Lovelace Posse
   * Gustavo Villagrana:
