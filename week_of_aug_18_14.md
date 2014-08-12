@@ -12,7 +12,7 @@
   * Corey Davis: Geoff S. 8/13 2:00 - 3:00 (Exercism) & Matt R. 8/20 5:30 - 6:30 (Open source contributions)
   * Marc Garreau: Blair Anderson, 8/12, 6pm, rails intro stuff
   * Ian Anderson:
-  * Jessica Goulding:
+  * Jessica Goulding: Geoff S 8/12 1pm-2pm(EventReporter), Matt R 8/14 7pm(Open Source), Anton 8/20 6pm(Exercism)
 
 #### Fred Brooks Posse
   * Alan Smith:
