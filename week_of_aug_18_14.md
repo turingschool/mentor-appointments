@@ -26,10 +26,10 @@
   * Jim Sutton: Austen 8/11 6pm - 7pm; Mary 8/13 6pm - 7pm; Watts 8/15 7:30 - 8:30am
 
 #### Ada Lovelace Posse
-  * Gustavo Villagrana:
-  * Tim Proctor:
-  * Aaron Paul Wortham:
-  * Chad Brading:
+  * Gustavo Villagrana: Anjun 8/21 TBD
+  * Tim Proctor: Anjun 8/21 TBD, Rachel 8/19 7-8pm
+  * Aaron Paul Wortham: 8/20, Rachel TBD
+  * Chad Brading: Anjun 8/18 TBD
 
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
