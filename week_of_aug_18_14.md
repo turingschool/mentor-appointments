@@ -39,7 +39,7 @@
 #### John von Neumann Posse
   * Will Faurot:
   * Tan Doan: Marty Haught 8/13 4-5pm
-  * Sara Simon:
+  * Sara Simon: Sean: 8/18 4-5pm, Marty: 8/22 4-5pm
 
 #### Anita Borg Posse
   * Andy Mention:
