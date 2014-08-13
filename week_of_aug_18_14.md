@@ -43,5 +43,5 @@
 
 #### Anita Borg Posse
   * Andy Mention:
-  * Horacio Chavez:
+  * Horacio Chavez: Ben Lewis, 8/19, 12:00pm, working on Rails. 
   * Glen Egbert: Bryana Knight 8/14 @ 7am. 
