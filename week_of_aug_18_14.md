@@ -5,7 +5,7 @@
 
 #### Alan Kay Posse
   * Emily Davis:
-  * Eric Fransen:
+  * Eric Fransen: Andrew 8/19 12-1 MST (Rails, project check in)
   * Cara Dennis:
 
 #### Grace Hopper Posse
