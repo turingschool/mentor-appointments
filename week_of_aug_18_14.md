@@ -44,4 +44,4 @@
 #### Anita Borg Posse
   * Andy Mention:
   * Horacio Chavez:
-  * Glen Egbert:
+  * Glen Egbert: Bryana Knight 8/14 @ 7am. 
