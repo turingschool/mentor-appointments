@@ -15,7 +15,7 @@
   * Jessica Goulding: Geoff S 8/12 1pm-2pm(EventReporter), Matt R 8/14 7pm(Open Source), Anton 8/20 6pm(Exercism)
 
 #### Fred Brooks Posse
-  * Alan Smith:
+  * Alan Smith: today, 4pm
   * Hilary Denton: Danny Garcia, 8/19, 7, Rails stuff/ dinner_dash
   * Kavita Sachdeva: Meeka Gayhart, 8/18, 7ish, TBD
   * Rolando Navarrete
