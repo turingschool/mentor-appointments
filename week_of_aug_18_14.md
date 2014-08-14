@@ -29,7 +29,7 @@
   * Gustavo Villagrana:
   * Tim Proctor:
   * Aaron Paul Wortham:
-  * Chad Brading: Rachel Ober 8/20 6pm - 7pm
+  * Chad Brading: Rachel Ober 8/20 6-7pm, Jed Schneider 8/18 7:30-8:30am
 
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
