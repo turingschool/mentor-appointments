@@ -26,10 +26,10 @@
   * Jim Sutton: Austen 8/11 6pm - 7pm; Mary 8/13 6pm - 7pm; Watts 8/15 7:30 - 8:30am
 
 #### Ada Lovelace Posse
-  * Gustavo Villagrana:
-  * Tim Proctor:
-  * Aaron Paul Wortham:
-  * Chad Brading: Rachel Ober 8/20 6-7pm, Jed Schneider 8/18 7:30-8:30am
+  * Gustavo Villagrana: Anjun 8/21 TBD
+  * Tim Proctor: Anjun 8/21 TBD, Rachel 8/19 7-8pm
+  * Aaron Paul Wortham: 8/20, Rachel TBD
+  * Chad Brading: Rachel Ober 8/20 6-7pm, Anjun 8/18 TBD, Jed Schneider 8/18 7:30-8:30am
 
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
@@ -43,5 +43,5 @@
 
 #### Anita Borg Posse
   * Andy Mention:
-  * Horacio Chavez: Ben Lewis, 8/19, 12:00pm, working on Rails. 
-  * Glen Egbert: Bryana Knight 8/14 @ 7am. 
+  * Horacio Chavez: Ben Lewis, 8/19, 12:00pm, working on Rails.
+  * Glen Egbert: Bryana Knight 8/14 @ 7am.
