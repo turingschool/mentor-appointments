@@ -32,7 +32,7 @@
   * Chad Brading: Rachel Ober 8/20 6-7pm, Anjun 8/18 TBD, Jed Schneider 8/18 7:30-8:30am
 
 #### Tim Berners-Lee Posse
-  * Jonmichael Chambers:
+  * Jonmichael Chambers: Evan Phoenix 8/21 10am-12pm
   * Robert Gu: Kim Barnes 8/18 6pm - 7pm (Rails)
   * Luke Aiken: Wes Rich 8/13 6pm TBD
 
