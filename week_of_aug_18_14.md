@@ -18,7 +18,7 @@
   * Alan Smith: today, 4pm
   * Hilary Denton: Danny Garcia, 8/19, 7, Rails stuff/ dinner_dash
   * Kavita Sachdeva: Meeka Gayhart, 8/18, 7ish, TBD
-  * Rolando Navarrete
+  * Rolando Navarrete: Lara Steadman 8/20 
 
 #### Donald Knuth Posse
   * Allison Larson: Ben 8/19 6am -7am (GO), Mary 8/20 5pm-6pm
@@ -32,7 +32,7 @@
   * Chad Brading: Rachel Ober 8/20 6-7pm, Anjun 8/18 TBD, Jed Schneider 8/18 7:30-8:30am
 
 #### Tim Berners-Lee Posse
-  * Jonmichael Chambers: Evan Phoenix 8/21 10am-12pm
+  * Jonmichael Chambers:
   * Robert Gu: Kim Barnes 8/18 6pm - 7pm (Rails)
   * Luke Aiken: Wes Rich 8/13 6pm TBD
 
