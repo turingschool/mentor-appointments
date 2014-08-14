@@ -42,6 +42,6 @@
   * Sara Simon: Sean: 8/18 4-5pm, Marty: 8/22 4-5pm
 
 #### Anita Borg Posse
-  * Andy Mention:
+  * Andy Mention: Quentin Tai, 8/19, 6pm, exercism refactoring
   * Horacio Chavez: Ben Lewis, 8/19, 12:00pm, working on Rails.
   * Glen Egbert: Bryana Knight 8/14 @ 7am.
