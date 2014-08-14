@@ -34,7 +34,7 @@
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
   * Robert Gu: Kim Barnes 8/18 6pm - 7pm (Rails)
-  * Luke Aiken:
+  * Luke Aiken: Wes Rich 8/13 6pm TBD
 
 #### John von Neumann Posse
   * Will Faurot:
