@@ -16,7 +16,7 @@
 
 #### Fred Brooks Posse
   * Alan Smith:
-  * Hillary Denton:
+  * Hilary Denton: Danny Garcia, 8/19, 7, Rails stuff/ dinner_dash
   * Kavita Sachdeva: Meeka Gayhart, 8/18, 7ish, TBD
   * Rolando Navarrete
 
