@@ -6,7 +6,7 @@
 #### Alan Kay Posse
   * Emily Davis:
   * Eric Fransen: Andrew 8/19 12-1 MST (Rails, project check in)
-  * Cara Dennis:
+  * Cara Dennis:  Mike   8/18 5:30 MST (Ruby exercisim?) 
 
 #### Grace Hopper Posse
   * Corey Davis: Geoff S. 8/13 2:00 - 3:00 (Exercism) & Matt R. 8/20 5:30 - 6:30 (Open source contributions)
