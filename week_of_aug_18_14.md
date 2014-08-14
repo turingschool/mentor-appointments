@@ -37,7 +37,7 @@
   * Luke Aiken: Wes Rich 8/13 6pm TBD
 
 #### John von Neumann Posse
-  * Will Faurot:
+  * Will Faurot: Sean: 8/18 5-6pm
   * Tan Doan: Marty Haught 8/13 4-5pm
   * Sara Simon: Sean: 8/18 4-5pm, Marty: 8/22 4-5pm
 
