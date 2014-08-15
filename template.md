@@ -1,4 +1,4 @@
-### Mentor Pairs for 8/25 to 8/29
+### Mentor Pairs for _______________
 
 #### Example Posse
 * Turing Student: Mentor name, date, time, working on...
