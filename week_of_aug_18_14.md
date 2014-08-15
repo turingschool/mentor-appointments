@@ -4,7 +4,7 @@
 * Turing Student: Mentor name, date, time, working on...
 
 #### Alan Kay Posse
-  * Emily Davis:
+  * Emily Davis:  Jess   8/20 9:30     Exercism
   * Eric Fransen: Andrew 8/19 12-1 MST (Rails, project check in)
   * Cara Dennis:  Mike   8/18 5:30 MST (Ruby exercisim?) 
 
