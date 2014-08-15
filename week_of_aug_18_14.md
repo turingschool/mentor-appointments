@@ -43,5 +43,5 @@
 
 #### Anita Borg Posse
   * Andy Mention: Quentin Tai, 8/19, 6pm, exercism refactoring
-  * Horacio Chavez: Ben Lewis, 8/19, 12:00pm, working on Rails.
+  * Horacio Chavez: Ben Lewis, 8/19, 12:00pm, working on Rails && Quentin Tai, 8/19, 6:00pm, working on Rails. 
   * Glen Egbert: Bryana Knight 8/14 @ 7am.
