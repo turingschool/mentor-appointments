@@ -9,7 +9,7 @@
   * Cara Dennis:
 
 #### Grace Hopper Posse
-  * Corey Davis:
+  * Corey Davis: Blair A. @6:30pm 8/26(Dinner Dash code review)
   * Marc Garreau:
   * Ian Anderson:
   * Jessica Goulding: MattR @10am 8/26(SalesEngine refactoring)
