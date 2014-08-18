@@ -12,7 +12,7 @@
   * Corey Davis:
   * Marc Garreau:
   * Ian Anderson:
-  * Jessica Goulding:
+  * Jessica Goulding: MattR @10am 8/26(SalesEngine refactoring)
 
 #### Fred Brooks Posse
   * Alan Smith:
