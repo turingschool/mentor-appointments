@@ -21,8 +21,8 @@
   * Rolando Navarrete:
 
 #### Donald Knuth Posse
-  * Allison Larson:
-  * Andrew Watkins:
+  * Allison Larson: 8/29 6AM Ben Johnson, databases and such 
+  * Andrew Watkins: 8/29 6AM Ben Johnson, databases and such 
   * Jim Sutton:
 
 #### Ada Lovelace Posse
