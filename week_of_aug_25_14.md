@@ -33,7 +33,7 @@
 
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
-  * Robert Gu:
+  * Robert Gu: Kim Barnes, Monday 6pm, How does Rails work :p
   * Luke Aiken:
 
 #### John von Neumann Posse
