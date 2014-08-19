@@ -42,6 +42,6 @@
   * Sara Simon:
 
 #### Anita Borg Posse
-  * Andy Mention:
+  * Andy Mention:Quentin Tai 6pm 8/25 Dinner Dash or exercism
   * Horacio Chavez:
   * Glen Egbert:
