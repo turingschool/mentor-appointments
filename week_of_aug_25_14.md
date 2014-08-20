@@ -23,7 +23,7 @@
 #### Donald Knuth Posse
   * Allison Larson: 8/29 6AM Ben Johnson, databases and such 
   * Andrew Watkins: 8/29 6AM Ben Johnson, databases and such 
-  * Jim Sutton:
+  * Jim Sutton:  8/27 Mary C., 8/28 Austen, 8/29 Watts
 
 #### Ada Lovelace Posse
   * Gustavo Villagrana:
