@@ -43,5 +43,5 @@
 
 #### Anita Borg Posse
   * Andy Mention:Quentin Tai 6pm 8/25 Dinner Dash or exercism
-  * Horacio Chavez:
+  * Horacio Chavez:QUuentin Tai 6pm 8/26 Dinner Dash
   * Glen Egbert: Ben Lewis 8/25 4-5pm
