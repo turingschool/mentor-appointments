@@ -17,7 +17,7 @@
 #### Fred Brooks Posse
   * Alan Smith:
   * Hillary Denton:
-  * Kavita Sachdeva:
+  * Kavita Sachdeva:Laura Steadman, 8/26, evening, TBD
   * Rolando Navarrete:
 
 #### Donald Knuth Posse
