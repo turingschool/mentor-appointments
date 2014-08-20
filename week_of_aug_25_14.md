@@ -18,7 +18,7 @@
   * Alan Smith:
   * Hillary Denton:
   * Kavita Sachdeva:Laura Steadman, 8/26, evening, TBD
-  * Rolando Navarrete:
+  * Rolando Navarrete:Laura Steadman 8/26 5PM
 
 #### Donald Knuth Posse
   * Allison Larson: 8/29 6AM Ben Johnson, databases and such 
