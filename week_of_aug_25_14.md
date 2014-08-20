@@ -11,7 +11,7 @@
 #### Grace Hopper Posse
   * Corey Davis: Blair A. @6:30pm 8/26(Dinner Dash code review)
   * Marc Garreau:
-  * Ian Anderson:
+  * Ian Andersen: Mike Chlipala @4:15 PM, 8/26 (SalesEngine party time)
   * Jessica Goulding: MattR @10am 8/26(SalesEngine refactoring)
 
 #### Fred Brooks Posse
