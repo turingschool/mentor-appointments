@@ -11,7 +11,7 @@
 #### Grace Hopper Posse
   * Corey Davis:
   * Marc Garreau:
-  * Ian Anderson:
+  * Ian Andersen:
   * Jessica Goulding:
 
 #### Fred Brooks Posse
