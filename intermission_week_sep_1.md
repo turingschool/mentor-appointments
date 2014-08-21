@@ -1,4 +1,4 @@
-### Mentor Pairs for _______________
+### Mentor Pairs for Intermission Week: September 1 - 5
 
 #### Example Posse
 * Turing Student: Mentor name, date, time, working on...
