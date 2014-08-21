@@ -6,7 +6,7 @@
 #### Alan Kay Posse
   * Emily Davis:
   * Eric Fransen:
-  * Cara Dennis: Mike Pack Monday 5:30pm (SalesEngine wtf)
+  * Cara Dennis:
 
 #### Grace Hopper Posse
   * Corey Davis: Blair A. @6:30pm 8/26(Dinner Dash code review)
@@ -18,18 +18,18 @@
   * Alan Smith:
   * Hillary Denton:
   * Kavita Sachdeva:Laura Steadman, 8/26, evening, TBD
-  * Rolando Navarrete:Laura Steadman 8/26 5PM
+  * Rolando Navarrete:
 
 #### Donald Knuth Posse
-  * Allison Larson: 8/29 6AM Ben Johnson, databases and such 
-  * Andrew Watkins: 8/29 6AM Ben Johnson, databases and such 
-  * Jim Sutton:  8/27 Mary C., 8/28 Austen, 8/29 Watts  8/29 6AM Ben Johnson, databases and such 
+  * Allison Larson: 8/29 6AM Ben Johnson, databases and such
+  * Andrew Watkins: 8/29 6AM Ben Johnson, databases and such
+  * Jim Sutton:  8/27 Mary C., 8/28 Austen, 8/29 Watts  8/29 6AM Ben Johnson, databases and such
 
-#### Ada Lovelace Posse
-  * Gustavo Villagrana:
-  * Tim Proctor:
-  * Aaron Paul Wortham:
-  * Chad Brading:
+#### Ada Lovelace Posse 
+  * Gustavo Villagrana:  8/25 TBD with Jed,
+  * Tim Proctor:         8/26 7p-8pm with Rachel,
+  * Aaron Paul Wortham:  8/25 6p-8pm with Rachel,
+  * Chad Brading:        8/25 TBD with Rolen
 
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
