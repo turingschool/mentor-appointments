@@ -26,10 +26,10 @@
   * Jim Sutton:  8/27 Mary C., 8/28 Austen, 8/29 Watts  8/29 6AM Ben Johnson, databases and such 
 
 #### Ada Lovelace Posse
-  * Gustavo Villagrana:
-  * Tim Proctor:
-  * Aaron Paul Wortham:
-  * Chad Brading:
+  * Gustavo Villagrana:  8/25 TBD with Jed,
+  * Tim Proctor:         8/26 7 - 8 with Rachel
+  * Aaron Paul Wortham:  8/26 6 - 7 with Rachel
+  * Chad Brading:        8/27 6 - 7 with Rachel
 
 #### Tim Berners-Lee Posse
   * Jonmichael Chambers:
