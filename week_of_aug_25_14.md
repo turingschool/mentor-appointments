@@ -21,7 +21,7 @@
   * Rolando Navarrete:Laura Steadman 8/26 5PM
 
 #### Donald Knuth Posse
-  * Allison Larson: 8/29 6AM Ben Johnson, databases and such 
+  * Allison Larson: 8/29 6AM Ben Johnson, databases and such , 8/27 5PM Mary Cutrali, 
   * Andrew Watkins: 8/29 6AM Ben Johnson, databases and such 
   * Jim Sutton:  8/27 Mary C., 8/28 Austen, 8/29 Watts  8/29 6AM Ben Johnson, databases and such 
 
