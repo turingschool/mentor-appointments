@@ -6,7 +6,7 @@
 #### Alan Kay Posse
   * Emily Davis:
   * Eric Fransen:
-  * Cara Dennis:
+  * Cara Dennis: Mike Pack Monday 5:30pm (SalesEngine wtf)
 
 #### Grace Hopper Posse
   * Corey Davis: Blair A. @6:30pm 8/26(Dinner Dash code review)
