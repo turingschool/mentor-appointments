@@ -5,7 +5,7 @@
 
 #### Alan Kay Posse
   * Emily Davis:
-  * Eric Fransen:
+  * Eric Fransen: Mike Pack : Morning (Rails and/or exercism)
   * Cara Dennis: Mike Pack Monday 5:30pm (SalesEngine wtf)
 
 #### Grace Hopper Posse
